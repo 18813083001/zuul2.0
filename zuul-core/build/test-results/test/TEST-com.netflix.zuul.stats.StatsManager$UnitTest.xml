@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.stats.StatsManager$UnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:55:06" hostname="192.168.0.101" time="0.016">
+  <properties/>
+  <testcase name="isIPv6" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.0"/>
+  <testcase name="testCollectRequestStats" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.011"/>
+  <testcase name="testGetRouteStatusCodeMonitor" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.002"/>
+  <testcase name="extractsClientIpFromXForwardedFor" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.0"/>
+  <testcase name="testCollectRouteStats" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.0"/>
+  <testcase name="createsNormalizedHostKey" classname="com.netflix.zuul.stats.StatsManager$UnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.netty.common.metrics.InstrumentedResourceLeakDetector$InstrumentedResourceLeakDetectorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:55" hostname="192.168.0.101" time="0.159">
+  <properties/>
+  <testcase name="test" classname="com.netflix.netty.common.metrics.InstrumentedResourceLeakDetector$InstrumentedResourceLeakDetectorTest" time="0.159"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

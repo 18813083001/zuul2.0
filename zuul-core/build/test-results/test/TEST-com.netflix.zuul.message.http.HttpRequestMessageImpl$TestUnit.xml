@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:59" hostname="192.168.0.101" time="0.022">
+  <properties/>
+  <testcase name="testCleanCookieHeaders" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.0"/>
+  <testcase name="testPathAndQuery" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.0"/>
+  <testcase name="testGetOriginalHost" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.0"/>
+  <testcase name="testGetOriginalPort" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.001"/>
+  <testcase name="testReconstructURI" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.001"/>
+  <testcase name="testReconstructURI_immutable" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.016"/>
+  <testcase name="testOriginalRequestInfo" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.001"/>
+  <testcase name="testPathAndQuery_immutable" classname="com.netflix.zuul.message.http.HttpRequestMessageImpl$TestUnit" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

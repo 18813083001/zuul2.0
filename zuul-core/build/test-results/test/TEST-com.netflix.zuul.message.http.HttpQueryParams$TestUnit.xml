@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:59" hostname="192.168.0.101" time="0.006">
+  <properties/>
+  <testcase name="testParseKeysWithoutValues" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.001"/>
+  <testcase name="testToString" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <testcase name="testToEncodedString" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <testcase name="testMultiples" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <testcase name="testParseKeysWithoutValuesMixedTrailers" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.001"/>
+  <testcase name="testParseKeyWithoutValueShort" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.001"/>
+  <testcase name="testEquals" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <testcase name="testParseKeyWithoutValueEquals" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <testcase name="testParseKeyWithoutValue" classname="com.netflix.zuul.message.http.HttpQueryParams$TestUnit" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

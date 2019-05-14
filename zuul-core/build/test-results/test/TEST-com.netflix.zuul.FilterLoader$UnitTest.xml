@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.FilterLoader$UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:58" hostname="192.168.0.101" time="0.027">
+  <properties/>
+  <testcase name="testPutFiltersForClassesException" classname="com.netflix.zuul.FilterLoader$UnitTest" time="0.02"/>
+  <testcase name="testGetFilterFromString" classname="com.netflix.zuul.FilterLoader$UnitTest" time="0.001"/>
+  <testcase name="testGetFilterFromFile" classname="com.netflix.zuul.FilterLoader$UnitTest" time="0.002"/>
+  <testcase name="testGetFiltersByType" classname="com.netflix.zuul.FilterLoader$UnitTest" time="0.001"/>
+  <testcase name="testPutFiltersForClasses" classname="com.netflix.zuul.FilterLoader$UnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

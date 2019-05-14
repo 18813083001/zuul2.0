@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:59" hostname="192.168.0.101" time="0.012">
+  <properties/>
+  <testcase name="testSetBodyAsTextGetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <testcase name="testMultiSetBodyGetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.001"/>
+  <testcase name="testMultiSetBodyAsTextGetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <testcase name="testClone" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.001"/>
+  <testcase name="testBufferBody3GetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <testcase name="testSetBodyAsTextGetBodyAsText" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.001"/>
+  <testcase name="testBufferBody3GetBodyAsText" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <testcase name="testBufferBody2GetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <testcase name="testSetBodyGetBody" classname="com.netflix.zuul.message.ZuulMessageImpl$UnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

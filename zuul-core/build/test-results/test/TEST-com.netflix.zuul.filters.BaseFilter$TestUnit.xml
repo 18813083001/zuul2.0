@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.filters.BaseFilter$TestUnit" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:55" hostname="192.168.0.101" time="0.231">
+  <properties/>
+  <testcase name="testShouldFilter" classname="com.netflix.zuul.filters.BaseFilter$TestUnit" time="0.231"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+com.netflix.zuul:zuul-core:2.2.0-SNAPSHOT
+com.netflix.zuul:zuul-sample:2.2.0-SNAPSHOT

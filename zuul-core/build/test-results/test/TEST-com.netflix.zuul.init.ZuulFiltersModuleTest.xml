@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.init.ZuulFiltersModuleTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:55" hostname="192.168.0.101" time="0.862">
+  <properties/>
+  <testcase name="testEmptyFilterLocations" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.018"/>
+  <testcase name="testDefaultFilterLocations" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.001"/>
+  <testcase name="testClassNamesPackagesOnly" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.28"/>
+  <testcase name="testClassNamesOnly" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.203"/>
+  <testcase name="testMultiClasses" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.176"/>
+  <testcase name="testMultiPackages" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.106"/>
+  <testcase name="testEmptyClassNames" classname="com.netflix.zuul.init.ZuulFiltersModuleTest" time="0.074"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.netflix.zuul.context.Debug$UnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-05-12T11:54:57" hostname="192.168.0.101" time="0.03">
+  <properties/>
+  <testcase name="testRequestDebug" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.005"/>
+  <testcase name="testWriteOutboundRequestDebug" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.02"/>
+  <testcase name="testWriteInboundRequestDebug" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.0"/>
+  <testcase name="testWriteInboundResponseDebug" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.001"/>
+  <testcase name="testWriteOutboundResponseDebug" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.001"/>
+  <testcase name="testWriteResponseDebug_WithBody" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.001"/>
+  <testcase name="testWriteRequestDebug_WithBody" classname="com.netflix.zuul.context.Debug$UnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
